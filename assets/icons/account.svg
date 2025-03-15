@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="vuesax_outline_profile-circle" data-name="vuesax/outline/profile-circle" transform="translate(-492 -252)">
+    <g id="profile-circle" transform="translate(492 252)">
+      <path id="Vector" d="M3.45,6.708H3.308a3.325,3.325,0,1,1,.167,0Zm-.1-5.467a2.109,2.109,0,0,0-.083,4.217.7.7,0,0,1,.192,0A2.11,2.11,0,0,0,3.35,1.242Z" transform="translate(6.65 4.567)" fill="#b1c9d3"/>
+      <path id="Vector-2" data-name="Vector" d="M6.244,6.712A8.925,8.925,0,0,1,.2,4.363.629.629,0,0,1,0,3.837a3.674,3.674,0,0,1,1.75-2.6,8.77,8.77,0,0,1,8.983,0,3.69,3.69,0,0,1,1.75,2.6.6.6,0,0,1-.2.525A8.925,8.925,0,0,1,6.244,6.712ZM1.311,3.671A7.674,7.674,0,0,0,6.244,5.462a7.674,7.674,0,0,0,4.933-1.792,2.709,2.709,0,0,0-1.142-1.4,7.541,7.541,0,0,0-7.592,0A2.69,2.69,0,0,0,1.311,3.671Z" transform="translate(3.756 12.246)" fill="#b1c9d3"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H20V20H0Z" fill="none" opacity="0"/>
+      <path id="Vector-4" data-name="Vector" d="M8.958,17.917a8.958,8.958,0,1,1,8.958-8.958A8.966,8.966,0,0,1,8.958,17.917Zm0-16.667a7.708,7.708,0,1,0,7.708,7.708A7.718,7.718,0,0,0,8.958,1.25Z" transform="translate(1.042 1.042)" fill="#b1c9d3"/>
+    </g>
+  </g>
+</svg>
