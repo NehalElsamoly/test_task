@@ -1,8 +1,5 @@
 #test
 
-<div align="center">
-    <img align="center" src="https://github.com/TopBusiness-Flutter-Projects/travel_club/blob/main/assets/images/splash_logo.png" alt="CENTER">
-</div>
 
 
 
